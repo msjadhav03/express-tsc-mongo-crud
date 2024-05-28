@@ -54,10 +54,26 @@ npm run test
 
 - ### Swagger
 
-  ![Swaager Image](./asset/feature.png)
+  ![Swaager Image](./asset/all_swagger.png)
 
 - ### Unit Testcases
+
   ![Unit Testing](./asset/unit_testing.png)
+
+- ### Create Habit
+
+  ![Create Habit](./asset/add_h.png)
+
+- ### Delete Habit
+
+  ![Delete Habit](./asset/delete_h.png)
+
+- ### Update Habit
+
+  ![Update Habit](./asset/update_h.png)
+
+- ### Fetch Habit
+  ![Update Habit](./asset/fetch_h.png)
 
 ## Contributing 🤝
 
