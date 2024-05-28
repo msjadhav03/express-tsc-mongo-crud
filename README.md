@@ -22,10 +22,10 @@ npm i --save-dev
 
 ```sh
 # Clone the repository
-git clone https://github.com/msjadhav03/express-ts-template.git
+git clone https://github.com/msjadhav03/express-tsc-mongo-crud.git
 
 # Navigate to the project directory
-cd express-ts-template.git
+cd express-tsc-mongo-crud.git
 
 # Install dependencies
 npm install
@@ -43,6 +43,11 @@ npm install --save-dev
 npm build
 
 # Start
+npm run start
+
+# Run test Cases
+
+npm run test
 ```
 
 ## Features ✨
@@ -68,5 +73,3 @@ This project is licensed under the [ISC License](https://opensource.org/licenses
 ## Contact 📧
 
 [Manisha Jadhav](https://github.com/m.s.jadhav03)
-
-
