@@ -1,4 +1,4 @@
-# Hibo : Habit Manageer (CRUD app using express and typescript) 🚀
+# Hibo : Habit Manager (CRUD app using express and typescript) 🚀
 
 A brief description of what your project does and why it is useful.
 
