@@ -1,4 +1,4 @@
-# Project Title 🚀
+# Hibo : Habit Manageer (CRUD app using express and typescript) 🚀
 
 A brief description of what your project does and why it is useful.
 
@@ -13,6 +13,7 @@ A brief description of what your project does and why it is useful.
 - [Acknowledgements](#acknowledgements)
 
 ## Installation 💻
+
 ```sh
 npm i
 npm i --save-dev
@@ -41,10 +42,13 @@ npm install --save-dev
 # Build
 npm build
 
-# Start 
+# Start
 ```
 
 ## Features ✨
+
+- Swagger
+  ![Swaager Image](./asset/feature.png)
 
 ## Contributing 🤝
 
