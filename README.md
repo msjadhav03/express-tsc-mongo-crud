@@ -54,14 +54,19 @@ npm build
 
 Guidelines for contributing to the project. Include information about setting up a development environment and making pull requests.
 
-Fork the repository
-Create your feature branch (git checkout -b feature/your-feature)
-Commit your changes (git commit -am 'Add some feature')
-Push to the branch (git push origin feature/your-feature)
-Create a new Pull Request
+### Fork the repository
+
+- Create your feature branch (git checkout -b feature/your-feature)
+- Commit your changes (git commit -am 'Add some feature')
+- Push to the branch (git push origin feature/your-feature)
+  Create a new Pull Request
 
 ## License 📄
 
+This project is licensed under the [ISC License](https://opensource.org/licenses/ISC):
+
 ## Contact 📧
 
-## Acknowledgement 🙏
+[Manisha Jadhav](https://github.com/m.s.jadhav03)
+
+
